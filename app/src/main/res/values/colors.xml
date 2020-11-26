@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff9800</color>
+    <color name="colorPrimaryDark">#f57c00</color>
+    <color name="colorAccent">#ffc107</color>
+    <color name="view_backg_color">#c7c7c7</color>
+
+    <!--  colors for dark theme -->
+    <color name="colorPrimary_dark">#212121</color>
+    <color name="colorAccent_dark">#FF9800</color>
+    <color name="colorPrimaryDark_dark">#DE000000</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="grayshade">#8A938D</color>
+
+</resources>
